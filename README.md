@@ -1,39 +1,40 @@
-Welcome to Mobile App Development for iOS and Android, Edition 2.0
-===============================
+<h1>Welcome to Mobile App Development for iOS and Android, Edition 2.0</h1>
 
 This repository contains source code for the book Mobile App Development for iOS and Android by Jakob Iversen and Michael Eierman. Comments and questions can be directed to the authors at jhiversen@gmail.com or michael.eierman@gmail.com.
 
-Brief Table of Contents
+<h2>Brief Table of Contents</h2>
 
-Part I: Overview of Mobile App Development
+<b>Part I: Overview of Mobile App Development</b>
 
-Chapter 1: Why Mobile Apps?
+Chapter 1: Why Mobile Apps? <br>
 Chapter 2: App Design Issues and Considerations
 
-Part II: Developing the Android App
+<b>Part II: Developing the Android App</b>
 
-Chapter 3: Using Android Studio for Android Development
-Chapter 4: Android Navigation and Interface Design
-Chapter 5: Persistent Data in Android
-Chapter 6: Lists in Android: Navigation and Information Display
-Chapter 7: Maps and Location in Android
+Chapter 3: Using Android Studio for Android Development<br>
+Chapter 4: Android Navigation and Interface Design<br>
+Chapter 5: Persistent Data in Android<br>
+Chapter 6: Lists in Android: Navigation and Information Display<br>
+Chapter 7: Maps and Location in Android<br>
 Chapter 8: Access to Hardware and Sensors in Android
 
-Part III: Developing the iOS App
+<b>Part III: Developing the iOS App</b>
 
-Chapter 9: Using Xcode for iOS  Development
-Chapter 10: iOS Navigation and Interface Design
-Chapter 11: Persistent Data in iOS
-Chapter 12: Tables in iOS: Navigation and Information Display
-Chapter 13: Maps and Location in iOS
+Chapter 9: Using Xcode for iOS  Development<br>
+Chapter 10: iOS Navigation and Interface Design<br>
+Chapter 11: Persistent Data in iOS<br>
+Chapter 12: Tables in iOS: Navigation and Information Display<br>
+Chapter 13: Maps and Location in iOS<br>
 Chapter 14: Access to Hardware and Sensors in iOS
 
-Part IV: Business Issues
+<b>Part IV: Business Issues</b>
 
-Chapter 15: Monetizing Apps
+Chapter 15: Monetizing Apps<br>
 Chapter 16: Publishing Apps
 
-Appendix A: Fixing Code Issues using Android Studio
-Appendix B: ConstraintLayouts in Android
+<b>Appendices</b>
+
+Appendix A: Fixing Code Issues using Android Studio<br>
+Appendix B: ConstraintLayouts in Android<br>
 Appendix C: Introduction to Swift
 
